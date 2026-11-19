@@ -1,0 +1,23 @@
+variable,subgroup,n_per_repeat,tn,fp,fn,tp
+Sex,F,1520.0,510.8,228.2,265.3,515.7
+Sex,M,1948.0,564.9,331.1,310.4,741.6
+ASA class,ASA 1,717.0,324.1,84.9,145.8,162.2
+ASA class,ASA 2,2112.0,658.6,336.4,364.6,752.4
+ASA class,ASA 3,522.0,70.4,119.6,49.3,282.7
+ASA class,ASA 4,34.0,1.0,4.0,1.9,27.1
+ASA class,Missing,83.0,21.6,14.4,14.1,32.9
+Department,General surgery,2141.0,464.8,412.2,286.3,977.7
+Department,Gynecology,183.0,75.5,15.5,30.9,61.1
+Department,Thoracic surgery,1063.0,486.9,123.1,243.2,209.8
+Department,Urology,81.0,48.5,8.5,15.3,8.7
+Operation type,Biliary/Pancreas,324.0,26.8,71.2,24.4,201.6
+Operation type,Breast,14.0,0.9,4.1,1.0,8.0
+Operation type,Colorectal,345.0,92.5,67.5,58.9,126.1
+Operation type,Hepatic,255.0,73.4,49.6,38.2,93.8
+Operation type,Major resection,572.0,277.1,59.9,119.2,115.8
+Operation type,Minor resection,506.0,260.4,45.6,121.8,78.2
+Operation type,Others,551.0,131.7,111.3,82.9,225.1
+Operation type,Stomach,440.0,111.2,83.8,84.4,160.6
+Operation type,Thyroid,78.0,36.2,6.8,13.1,21.9
+Operation type,Transplantation,292.0,57.6,37.4,26.4,170.6
+Operation type,Vascular,91.0,7.9,22.1,5.4,55.6

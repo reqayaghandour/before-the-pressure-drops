@@ -1,0 +1,59 @@
+column,feature,coef_log_odds,odds_ratio
+optype_Transplantation,optype,0.67146,1.95709
+department_Urology,department,-0.53372,0.58642
+department_Gynecology,department,0.44555,1.56135
+approach_Videoscopic,approach,-0.38201,0.68249
+optype_Biliary/Pancreas,optype,0.36351,1.43838
+optype_Major resection,optype,-0.31866,0.72712
+approach_Open,approach,0.26339,1.30133
+age,age,0.2433,1.27545
+preop_cr,preop_cr,-0.24127,0.78563
+optype_Colorectal,optype,-0.23037,0.79424
+optype_Stomach,optype,0.22007,1.24616
+position_Missing,position,-0.19869,0.8198
+optype_Hepatic,optype,-0.19812,0.82027
+optype_Minor resection,optype,-0.19764,0.82066
+emop_0,emop,0.16676,1.18147
+preop_pft_Moderate obstructive,preop_pft,0.16377,1.17795
+emop_1,emop,-0.15654,0.85509
+optype_Thyroid,optype,-0.15469,0.85668
+preop_alb,preop_alb,-0.15036,0.8604
+preop_hb,preop_hb,-0.1465,0.86372
+preop_pft_Normal,preop_pft,-0.13831,0.87083
+approach_Robotic,approach,0.12883,1.1375
+optype_Others,optype,-0.12793,0.87992
+preop_aptt,preop_aptt,0.1204,1.12795
+preop_ecg_grouped_Normal,preop_ecg_grouped,0.11955,1.12699
+position_Lithotomy,position,0.11688,1.12399
+preop_pft_infrequent_sklearn,preop_pft,-0.1094,0.89637
+preop_ecg_grouped_Abnormal,preop_ecg_grouped,-0.10934,0.89643
+height,height,0.09862,1.10365
+preop_pft_Mixed or pure obstructive,preop_pft,0.09105,1.09532
+asa,asa,0.08276,1.08628
+position_Supine,position,0.08275,1.08627
+preop_htn_1,preop_htn,0.08095,1.08432
+preop_ast,preop_ast,-0.07374,0.92891
+preop_htn_0,preop_htn,-0.07073,0.93171
+bmi,bmi,-0.05584,0.94569
+department_General surgery,department,0.0553,1.05685
+position_Left lateral decubitus,position,-0.05358,0.94783
+position_infrequent_sklearn,position,0.0518,1.05316
+preop_pft_Mild restrictive,preop_pft,0.0452,1.04624
+department_Thoracic surgery,department,0.04309,1.04404
+preop_pft_Mild obstructive,preop_pft,-0.04209,0.95878
+preop_gluc,preop_gluc,0.04161,1.04249
+preop_alt,preop_alt,0.03857,1.03932
+preop_na,preop_na,0.03635,1.03702
+optype_Vascular,optype,-0.03428,0.9663
+sex_F,sex,0.02855,1.02896
+preop_k,preop_k,-0.02605,0.97429
+sex_M,sex,-0.01833,0.98184
+optype_infrequent_sklearn,optype,0.01687,1.01702
+preop_bun,preop_bun,0.01583,1.01595
+position_Right lateral decubitus,position,0.01369,1.01379
+preop_plt,preop_plt,-0.01205,0.98802
+preop_dm_1,preop_dm,0.00522,1.00524
+preop_dm_0,preop_dm,0.00499,1.00501
+preop_pt,preop_pt,-0.00389,0.99612
+weight,weight,0.00341,1.00341
+position_Reverse Trendelenburg,position,-0.00263,0.99737

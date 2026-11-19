@@ -1,0 +1,65 @@
+column,feature,coef_log_odds,odds_ratio
+optype_Transplantation,optype,0.62569,1.86954
+department_Urology,department,-0.58052,0.55961
+preop5_map_min60,preop5_map_min60,-0.44237,0.64251
+department_Gynecology,department,0.41856,1.51977
+preop5_pct_below65,preop5_pct_below65,0.40686,1.50209
+approach_Videoscopic,approach,-0.40481,0.6671
+optype_Biliary/Pancreas,optype,0.36622,1.44227
+approach_Open,approach,0.30268,1.35348
+optype_Hepatic,optype,-0.26294,0.76879
+optype_Colorectal,optype,-0.2626,0.76905
+optype_Major resection,optype,-0.24557,0.78226
+optype_Stomach,optype,0.22112,1.24747
+age,age,0.20132,1.22301
+preop_cr,preop_cr,-0.17195,0.84202
+emop_0,emop,0.15167,1.16378
+preop_pft_Moderate obstructive,preop_pft,0.15143,1.16349
+optype_Others,optype,-0.14017,0.86921
+department_Thoracic surgery,department,0.13892,1.14903
+preop_alb,preop_alb,-0.1388,0.8704
+emop_1,emop,-0.13876,0.87043
+optype_Minor resection,optype,-0.12547,0.88208
+position_Missing,position,-0.12544,0.88211
+preop_hb,preop_hb,-0.1245,0.88294
+approach_Robotic,approach,0.11504,1.12192
+preop_ast,preop_ast,-0.10986,0.89596
+preop_aptt,preop_aptt,0.10624,1.11209
+asa,asa,0.10143,1.10675
+preop_alt,preop_alt,0.09138,1.09568
+position_Supine,position,0.09025,1.09445
+preop_pft_Normal,preop_pft,-0.08455,0.91892
+bmi,bmi,-0.08246,0.92085
+optype_Vascular,optype,-0.08163,0.92161
+preop_ecg_grouped_Normal,preop_ecg_grouped,0.07775,1.08085
+preop_htn_1,preop_htn,0.07464,1.0775
+position_Lithotomy,position,0.06982,1.07232
+preop_pft_infrequent_sklearn,preop_pft,-0.06824,0.93404
+preop_ecg_grouped_Abnormal,preop_ecg_grouped,-0.06484,0.93722
+preop_pft_Mild obstructive,preop_pft,-0.06467,0.93738
+preop_htn_0,preop_htn,-0.06173,0.94013
+preop5_map_mean,preop5_map_mean,0.05824,1.05997
+optype_Thyroid,optype,-0.05768,0.94395
+position_infrequent_sklearn,position,0.05057,1.05187
+height,height,0.04819,1.04938
+preop_na,preop_na,0.04558,1.04663
+preop_gluc,preop_gluc,0.04533,1.04637
+sex_F,sex,0.04446,1.04547
+preop_pft_Mild restrictive,preop_pft,0.04321,1.04416
+position_Right lateral decubitus,position,-0.04312,0.95779
+weight,weight,0.04249,1.04341
+missingindicator_preop5_pct_below65,preop5_pct_below65,-0.03954,0.96124
+missingindicator_preop5_map_mean,preop5_map_mean,-0.03954,0.96124
+department_General surgery,department,0.03594,1.0366
+preop_pft_Mixed or pure obstructive,preop_pft,0.03573,1.03637
+missingindicator_preop5_map_min60,preop5_map_min60,0.03394,1.03452
+sex_M,sex,-0.03156,0.96894
+preop_k,preop_k,-0.0256,0.97472
+optype_infrequent_sklearn,optype,-0.02406,0.97623
+preop_pt,preop_pt,0.02059,1.02081
+preop_plt,preop_plt,-0.01995,0.98025
+position_Reverse Trendelenburg,position,-0.0164,0.98373
+position_Left lateral decubitus,position,-0.01278,0.98731
+preop_dm_0,preop_dm,0.01089,1.01095
+preop_bun,preop_bun,-0.01051,0.98954
+preop_dm_1,preop_dm,0.00201,1.00202

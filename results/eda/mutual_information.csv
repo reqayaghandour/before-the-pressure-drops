@@ -1,0 +1,31 @@
+feature,label,mi_mean,mi_sd,extended_only,rank
+preop5_map_mean,Pre-start MAP (mean),0.05978,0.00139,True,1
+preop5_map_min60,Pre-start MAP (lowest 60 s),0.05697,0.00304,True,2
+preop5_pct_below65,Pre-start % < 65 mmHg,0.05218,0.00339,True,3
+approach,Surgical approach,0.02408,0.0,False,4
+optype,Operation type,0.02105,0.0,False,5
+age,Age,0.01609,0.00915,False,6
+position,Position,0.01558,0.0,False,7
+preop_plt,Platelets,0.01542,0.00603,False,8
+preop_alb,Albumin,0.0146,0.0092,False,9
+bmi,BMI,0.01399,0.00736,False,10
+department,Department,0.01386,0.0,False,11
+preop_ast,AST,0.01179,0.00678,False,12
+preop_hb,Haemoglobin,0.01009,0.01053,False,13
+asa,ASA class,0.01,0.0,False,14
+preop_pt,PT,0.00698,0.00467,False,15
+preop_k,Potassium,0.00656,0.00597,False,16
+preop_gluc,Glucose,0.00552,0.00587,False,17
+preop_pft,Pulmonary function test,0.00489,0.0,False,18
+preop_cr,Creatinine,0.00418,0.00521,False,19
+preop_bun,BUN,0.004,0.0049,False,20
+preop_alt,ALT,0.00349,0.00406,False,21
+weight,Weight,0.00306,0.00249,False,22
+preop_aptt,aPTT,0.00289,0.00436,False,23
+preop_htn,Hypertension,0.00257,0.0,False,24
+preop_na,Sodium,0.00176,0.00268,False,25
+preop_dm,Diabetes,0.00099,0.0,False,26
+sex,Sex,0.00034,0.0,False,27
+emop,Emergency surgery,0.00023,0.0,False,28
+preop_ecg_grouped,ECG,2e-05,0.0,False,29
+height,Height,0.0,0.0,False,30

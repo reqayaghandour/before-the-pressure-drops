@@ -1,0 +1,191 @@
+feature_1,feature_2,pearson_r,spearman_rho
+Pre-start MAP (mean),Pre-start MAP (lowest 60 s),0.88,0.88
+AST,ALT,0.86,0.7
+Weight,BMI,0.82,0.8
+BUN,Creatinine,0.73,0.51
+Pre-start MAP (lowest 60 s),Pre-start % < 65 mmHg,-0.65,-0.85
+Pre-start MAP (mean),Pre-start % < 65 mmHg,-0.64,-0.75
+Haemoglobin,Albumin,0.58,0.55
+Height,Weight,0.56,0.57
+PT,Albumin,0.42,0.27
+Sodium,Albumin,0.39,0.27
+Albumin,ASA class,-0.38,-0.34
+Weight,Haemoglobin,0.34,0.35
+Haemoglobin,ASA class,-0.32,-0.29
+PT,aPTT,-0.31,-0.29
+BUN,ASA class,0.29,0.26
+Haemoglobin,BUN,-0.27,-0.08
+Haemoglobin,Sodium,0.27,0.2
+Haemoglobin,PT,0.27,0.19
+Age,ASA class,0.26,0.26
+BMI,Haemoglobin,0.25,0.26
+Age,Height,-0.25,-0.22
+Potassium,Creatinine,0.24,0.24
+Potassium,BUN,0.23,0.18
+Height,Haemoglobin,0.22,0.26
+PT,Sodium,0.22,0.17
+PT,ALT,-0.22,-0.01
+Creatinine,ASA class,0.21,0.2
+Sodium,ASA class,-0.21,-0.15
+PT,AST,-0.21,-0.09
+Age,Albumin,-0.2,-0.25
+Haemoglobin,Creatinine,-0.2,0.16
+Glucose,ASA class,0.19,0.17
+Sodium,Glucose,-0.19,-0.13
+PT,ASA class,-0.18,-0.08
+Weight,Albumin,0.18,0.17
+Albumin,BUN,-0.18,-0.07
+BMI,Albumin,0.18,0.16
+Albumin,ALT,-0.17,0.07
+Age,Glucose,0.17,0.23
+Platelets,ASA class,-0.17,-0.19
+aPTT,Albumin,-0.16,0.01
+Albumin,AST,-0.16,-0.06
+Platelets,BUN,-0.16,-0.2
+Sodium,BUN,-0.16,-0.02
+PT,Potassium,0.14,0.14
+aPTT,AST,0.14,0.07
+Sodium,Creatinine,-0.14,-0.04
+Glucose,Albumin,-0.14,-0.13
+Haemoglobin,ALT,-0.13,0.26
+Haemoglobin,AST,-0.13,0.09
+PT,Creatinine,0.13,0.1
+BMI,Sodium,0.13,0.11
+Platelets,aPTT,-0.13,-0.05
+Albumin,Pre-start % < 65 mmHg,-0.13,-0.12
+aPTT,ALT,0.12,0.04
+Platelets,PT,0.12,0.09
+ALT,BUN,0.12,0.03
+PT,Pre-start MAP (mean),0.11,0.09
+ALT,ASA class,0.11,0.05
+Height,Platelets,-0.11,-0.14
+Age,Weight,-0.11,-0.08
+Platelets,Creatinine,-0.11,-0.21
+aPTT,Potassium,0.11,0.02
+Platelets,ALT,-0.11,-0.13
+Age,Creatinine,-0.11,0.14
+AST,BUN,0.11,0.0
+Potassium,Albumin,0.11,0.14
+Height,PT,-0.11,-0.11
+BMI,PT,0.11,0.12
+Albumin,Pre-start MAP (lowest 60 s),0.11,0.12
+Haemoglobin,aPTT,-0.11,0.01
+Haemoglobin,Pre-start % < 65 mmHg,-0.1,-0.08
+Creatinine,Pre-start MAP (lowest 60 s),0.1,0.01
+Albumin,Pre-start MAP (mean),0.1,0.1
+Age,Pre-start MAP (lowest 60 s),-0.1,-0.13
+PT,Pre-start MAP (lowest 60 s),0.1,0.08
+PT,Pre-start % < 65 mmHg,-0.1,-0.07
+aPTT,Sodium,-0.1,0.02
+AST,ASA class,0.1,0.12
+Platelets,Potassium,0.09,0.08
+Platelets,AST,-0.09,-0.19
+Height,Creatinine,0.09,0.38
+aPTT,ASA class,0.09,-0.02
+Age,PT,0.08,0.08
+Height,Sodium,-0.08,-0.08
+Age,Platelets,-0.08,-0.09
+Age,Haemoglobin,-0.08,-0.09
+Height,Potassium,0.08,0.09
+Haemoglobin,Glucose,-0.08,-0.06
+Sodium,Potassium,-0.07,-0.05
+Height,Pre-start MAP (mean),-0.07,-0.06
+Sodium,ALT,-0.07,0.01
+Age,Pre-start % < 65 mmHg,0.07,0.12
+Platelets,Glucose,-0.07,-0.05
+Glucose,BUN,0.07,0.14
+Albumin,Creatinine,-0.07,0.05
+Creatinine,Pre-start MAP (mean),0.07,-0.01
+Age,aPTT,-0.07,-0.16
+Age,Pre-start MAP (mean),-0.07,-0.09
+Sodium,AST,-0.07,-0.05
+BMI,BUN,-0.06,0.03
+Sodium,Pre-start % < 65 mmHg,-0.06,-0.05
+PT,BUN,0.06,0.17
+ASA class,Pre-start % < 65 mmHg,0.06,0.06
+Weight,Platelets,-0.06,-0.07
+Age,BUN,0.06,0.31
+Weight,Sodium,0.06,0.05
+Age,BMI,0.05,0.07
+Haemoglobin,Pre-start MAP (lowest 60 s),0.05,0.06
+aPTT,Pre-start MAP (mean),-0.05,-0.07
+Sodium,Pre-start MAP (mean),0.05,0.03
+Sodium,Pre-start MAP (lowest 60 s),0.05,0.04
+Haemoglobin,Pre-start MAP (mean),0.05,0.05
+BMI,Creatinine,-0.05,0.11
+Height,Pre-start MAP (lowest 60 s),-0.05,-0.04
+BMI,aPTT,-0.05,-0.09
+Height,aPTT,0.05,0.09
+Glucose,ALT,0.04,0.12
+ASA class,Pre-start MAP (lowest 60 s),-0.04,-0.05
+Glucose,Pre-start MAP (lowest 60 s),-0.04,-0.06
+Weight,Potassium,0.04,0.05
+BMI,Glucose,0.04,0.09
+Height,Albumin,0.04,0.07
+Weight,Glucose,0.04,0.08
+Weight,BUN,-0.04,0.04
+Platelets,Sodium,-0.04,-0.05
+Weight,PT,0.04,0.04
+aPTT,Pre-start % < 65 mmHg,0.04,0.02
+Platelets,Albumin,0.04,0.06
+aPTT,Pre-start MAP (lowest 60 s),-0.04,-0.04
+Platelets,Pre-start % < 65 mmHg,-0.04,-0.03
+Haemoglobin,Potassium,0.04,0.06
+Haemoglobin,Platelets,-0.04,-0.03
+BMI,Pre-start % < 65 mmHg,-0.04,-0.04
+BMI,Pre-start MAP (lowest 60 s),0.03,0.03
+ASA class,Pre-start MAP (mean),-0.03,-0.04
+Creatinine,Pre-start % < 65 mmHg,-0.03,0.01
+Platelets,Pre-start MAP (mean),0.03,0.04
+BUN,Pre-start MAP (lowest 60 s),0.03,0.0
+Height,ALT,0.03,0.2
+Weight,Pre-start % < 65 mmHg,-0.03,-0.02
+Glucose,Pre-start MAP (mean),-0.03,-0.05
+Age,Sodium,0.03,0.02
+Potassium,Glucose,0.03,-0.02
+BMI,AST,-0.03,0.1
+Potassium,Pre-start MAP (mean),0.03,0.03
+aPTT,BUN,0.03,-0.07
+Potassium,ALT,-0.02,0.01
+Height,Glucose,0.02,0.01
+Weight,ASA class,-0.02,-0.02
+Weight,Pre-start MAP (mean),-0.02,-0.01
+BUN,Pre-start % < 65 mmHg,0.02,0.02
+Weight,aPTT,-0.02,-0.02
+Potassium,AST,0.02,-0.0
+Weight,AST,-0.02,0.12
+ALT,Pre-start % < 65 mmHg,0.02,-0.04
+BMI,ASA class,-0.02,-0.02
+Height,Pre-start % < 65 mmHg,0.02,0.02
+Potassium,Pre-start % < 65 mmHg,-0.02,-0.02
+PT,Glucose,-0.02,0.0
+BMI,Pre-start MAP (mean),0.02,0.02
+Glucose,AST,0.02,0.06
+Glucose,Pre-start % < 65 mmHg,0.02,0.04
+BUN,Pre-start MAP (mean),0.01,-0.0
+Potassium,Pre-start MAP (lowest 60 s),0.01,0.01
+aPTT,Creatinine,0.01,-0.01
+BMI,ALT,-0.01,0.25
+Height,BMI,-0.01,0.01
+Platelets,Pre-start MAP (lowest 60 s),0.01,0.02
+Age,Potassium,0.01,0.03
+AST,Pre-start % < 65 mmHg,0.01,0.01
+Glucose,Creatinine,-0.01,0.1
+AST,Creatinine,0.01,0.05
+Weight,Creatinine,0.01,0.31
+Height,BUN,0.01,0.04
+Weight,ALT,0.01,0.31
+Height,AST,0.01,0.06
+aPTT,Glucose,0.01,-0.11
+ALT,Creatinine,-0.0,0.11
+Potassium,ASA class,0.0,-0.02
+BMI,Platelets,0.0,0.01
+Age,AST,-0.0,0.09
+Age,ALT,-0.0,-0.04
+Height,ASA class,-0.0,0.0
+Weight,Pre-start MAP (lowest 60 s),-0.0,0.01
+BMI,Potassium,-0.0,0.0
+AST,Pre-start MAP (lowest 60 s),0.0,-0.03
+ALT,Pre-start MAP (lowest 60 s),0.0,0.02
+ALT,Pre-start MAP (mean),-0.0,-0.01
+AST,Pre-start MAP (mean),0.0,-0.04

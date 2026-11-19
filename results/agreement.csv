@@ -1,0 +1,13 @@
+feature_set,model_1,model_2,spearman_rho
+primary,LR,RF,0.873
+primary,LR,XGBoost,0.878
+primary,LR,NN,0.883
+primary,RF,XGBoost,0.93
+primary,RF,NN,0.851
+primary,XGBoost,NN,0.841
+extended,LR,RF,0.92
+extended,LR,XGBoost,0.928
+extended,LR,NN,0.921
+extended,RF,XGBoost,0.962
+extended,RF,NN,0.89
+extended,XGBoost,NN,0.889

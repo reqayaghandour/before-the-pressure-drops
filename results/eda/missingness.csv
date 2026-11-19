@@ -1,0 +1,31 @@
+feature,missing_pct,feature_set
+preop_na,12.2,primary
+preop_k,12.2,primary
+preop_aptt,8.1,primary
+preop_pt,7.8,primary
+preop_gluc,7.7,primary
+preop_ast,7.6,primary
+preop_cr,7.5,primary
+preop_alt,7.5,primary
+preop_alb,7.5,primary
+preop_bun,7.4,primary
+preop_hb,6.9,primary
+preop_plt,6.9,primary
+asa,2.4,primary
+position,2.0,primary
+preop5_map_min60,1.0,extended only
+preop5_map_mean,0.8,extended only
+preop5_pct_below65,0.8,extended only
+bmi,0.0,primary
+approach,0.0,primary
+preop_pft,0.0,primary
+preop_ecg_grouped,0.0,primary
+preop_dm,0.0,primary
+preop_htn,0.0,primary
+department,0.0,primary
+optype,0.0,primary
+weight,0.0,primary
+emop,0.0,primary
+sex,0.0,primary
+height,0.0,primary
+age,0.0,primary
